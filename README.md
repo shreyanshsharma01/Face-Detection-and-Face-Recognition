@@ -1,3 +1,3 @@
 # Face-Recognition
 ## Face Detection
-## Face Recognition on image file Real time face recogntion through webcam.
+## Face Recognition on image file & Real time Face Recogntion through webcam.
